@@ -1,4 +1,4 @@
-# SequencesTimeSeriesPrediction
+# Sequences, Time Series and Prediction
 
 This folder contains jupyter notebooks for the exercises in Coursera course: **Sequences, Time Series and Prediction**, part of the DeepLearning.AI TensorFlow Developer Professional Certificate. This course demonsrates the use of RNNs and Tensorflow in time series modeling. 
 #### Table of Contents
